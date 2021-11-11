@@ -1,0 +1,7 @@
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\PunchOut\Fisticode\bin\Debug\Fisticode.exe.config
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\PunchOut\Fisticode\bin\Debug\Fisticode.exe
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\PunchOut\Fisticode\bin\Debug\Fisticode.pdb
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\PunchOut\Fisticode\obj\Debug\Fisticode.csproj.AssemblyReference.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\PunchOut\Fisticode\obj\Debug\Fisticode.csproj.CoreCompileInputs.cache
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\PunchOut\Fisticode\obj\Debug\Fisticode.exe
+C:\Users\jshel\Documents\ElevenFiftyProjects\Assignments\113SD\PunchOut\Fisticode\obj\Debug\Fisticode.pdb
